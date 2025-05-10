@@ -1,1 +1,0 @@
-GameSection and GameComponent will be deleted.
